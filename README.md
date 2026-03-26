@@ -14,8 +14,8 @@ Và cũng không biết fix lỗi
 
 👉 Thì chỉ cần file build sẵn, bạn có thể nạp trực tiếp để test nhanh mà không cần thiết lập môi trường phức tạp:
 
-ESP32 → dùng file .bin
-STM32 → dùng file .hex
+- ESP32 → dùng file `.bin`  
+- STM32 → dùng file `.hex`
 
 Chỉ cần vào mục Releases, tải phiên bản mới nhất, giải nén và sử dụng ngay.
 
