@@ -14,7 +14,7 @@ Nếu bạn “mượn” code nhưng:
 - Không build được  
 - Và cũng không biết fix lỗi  
 
-👉 **Thì repo này sinh ra để cứu bạn.**
+👉 **Thì repo này sinh ra để cứu anh em.**
 
 ---
 
