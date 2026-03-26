@@ -3,9 +3,13 @@ Dự án này được tạo ra dành cho anh em đang học môn Mạng Cảm B
 Nếu bạn “mượn” code nhưng:
 
 Không biết nạp
+
 Đéo biết cổng COM nào
+
 Không biết xem Serial Monitor
+
 Không build được
+
 Và cũng không biết fix lỗi
 
 👉 Thì chỉ cần file .bin, bạn có thể nạp trực tiếp vào ESP32 để test nhanh mà không cần thiết lập môi trường phức tạp.
