@@ -1,24 +1,54 @@
-Dự án này được tạo ra dành cho anh em đang học môn Mạng Cảm Biến Vi Mạch 1 2.
+# 📡 Mạng Cảm Biến Vi Mạch 1 2 – Quick Test
+
+Dự án này được tạo ra dành cho anh em đang học môn **Mạng Cảm Biến Vi Mạch 1 2**.
+
+---
+
+## ❗ Dành cho ai?
 
 Nếu bạn “mượn” code nhưng:
 
-Không biết nạp
+- Không biết nạp  
+- Đéo biết cổng COM nào  
+- Không biết xem Serial Monitor  
+- Không build được  
+- Và cũng không biết fix lỗi  
 
-Đéo biết cổng COM nào
+👉 **Thì repo này sinh ra để cứu bạn.**
 
-Không biết xem Serial Monitor
+---
 
-Không build được
+## ⚡ Cách dùng nhanh
 
-Và cũng không biết fix lỗi
+👉 Bạn không cần setup môi trường phức tạp.
 
-👉 Thì chỉ cần file build sẵn, bạn có thể nạp trực tiếp để test nhanh mà không cần thiết lập môi trường phức tạp:
+Chỉ cần file build sẵn:
 
-- ESP32 → dùng file `.bin`  
-- STM32 → dùng file `.hex`
+- **ESP32** → dùng file `.bin`  
+- **STM32** → dùng file `.hex`  
 
-Chỉ cần vào mục Releases, tải phiên bản mới nhất, giải nén và sử dụng ngay.
+---
 
-Mục tiêu là giúp giảm thiểu lỗi và tiết kiệm thời gian cho anh em.
+## 🔽 Hướng dẫn
 
-— Lâm Nguyễn – Vi mạch 1, with love
+1. Vào mục **Releases**  
+2. Tải phiên bản mới nhất  
+3. Giải nén file  
+4. Mở **StudentFlashTool**  
+5. Chọn file `.bin` hoặc `.hex`  
+6. Nạp vào board → DONE ✅  
+
+---
+
+## 🎯 Mục tiêu
+
+- Giảm thiểu lỗi khi setup môi trường  
+- Tiết kiệm thời gian  
+- Test nhanh phần cứng  
+
+---
+
+## 👨‍💻 Tác giả
+
+**Lâm Nguyễn – Vi mạch 1**  
+*with love* 💙
