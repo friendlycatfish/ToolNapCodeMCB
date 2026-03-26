@@ -1,9 +1,10 @@
-Dự án này được tạo ra dành cho các bạn đang học môn Mạng Cảm Biến trong lĩnh vực vi mạch.
+Dự án này được tạo ra dành cho anh em đang học môn Mạng Cảm Biến Vi Mạch 1 2.
 
 Nếu bạn “mượn” code nhưng:
 
 Không biết nạp
-Không rành Serial Monitor
+Đéo biết cổng COM nào
+Không biết xem Serial Monitor
 Không build được
 Và cũng không biết fix lỗi
 
