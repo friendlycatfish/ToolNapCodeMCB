@@ -12,7 +12,8 @@ Nếu bạn “mượn” code nhưng:
 - Đéo biết cổng COM nào  
 - Không biết xem Serial Monitor  
 - Không build được  
-- Và cũng không biết fix lỗi  
+- Không biết fix lỗi  
+- Không biết cài và mở Node-RED  
 
 👉 **Thì repo này sinh ra để cứu anh em.**
 
