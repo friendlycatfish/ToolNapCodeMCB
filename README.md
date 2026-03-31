@@ -51,5 +51,5 @@ Chỉ cần file build sẵn:
 
 ## 👨‍💻 Tác giả
 
-**Lâm Nguyễn – Vi mạch 1**  
+**Lâm Nguyễn – Vi mạch 2**  
 *with love* 💙
