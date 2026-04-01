@@ -1,3 +1,7 @@
+ĐÃ VIẾT CHO CẢ TOOL MÀ CÒN ĐÉO BIẾT DÙNG THÌ AI THƯƠNG ĐƯỢC ?????
+
+
+
 # 📡 Mạng Cảm Biến Vi Mạch 1 2 – Quick Test
 
 Dự án này được tạo ra dành cho anh em đang học môn **Mạng Cảm Biến Vi Mạch 1 2**.
